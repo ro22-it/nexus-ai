@@ -7,8 +7,10 @@
   A cross-platform desktop AI client with a secure Spring Boot backend, persistent chat history and pluggable providers.
 </p>
 
+<p align="center"><strong>English</strong> · <a href="README.ru.md">Русский</a></p>
+
 <p align="center">
-  <a href="https://github.com/artur39123/nexus-ai/actions/workflows/build.yml"><img src="https://img.shields.io/github/actions/workflow/status/artur39123/nexus-ai/build.yml?style=flat-square&label=build" alt="Build status" /></a>
+  <a href="https://github.com/ro22-it/nexus-ai/actions/workflows/build.yml"><img src="https://img.shields.io/github/actions/workflow/status/ro22-it/nexus-ai/build.yml?style=flat-square&label=build" alt="Build status" /></a>
   <img src="https://img.shields.io/badge/Java-21-7c3aed?style=flat-square" alt="Java 21" />
   <img src="https://img.shields.io/badge/JavaFX-desktop-2563eb?style=flat-square" alt="JavaFX" />
   <img src="https://img.shields.io/badge/Spring%20Boot-backend-0f766e?style=flat-square" alt="Spring Boot" />
